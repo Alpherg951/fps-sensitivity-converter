@@ -1,0 +1,6 @@
+interface:
+  display_name: "FPS 灵敏度转换"
+  short_description: "跨游戏换算 PC 鼠标灵敏度，默认匹配 cm/360 并说明数据边界"
+  default_prompt: "使用 $fps-sensitivity-converter 将我在 Apex 的 800 DPI、1.74 灵敏度换算到 VALORANT，沿用同 DPI。"
+policy:
+  allow_implicit_invocation: true

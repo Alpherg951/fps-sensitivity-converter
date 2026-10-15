@@ -1,0 +1,185 @@
+{
+  "checked_on": "2026-10-13",
+  "scope": "PC mouse horizontal hipfire only",
+  "games": [
+    {
+      "id": "apex",
+      "name": "Apex Legends",
+      "yaw": 0.022,
+      "status": "cross_checked",
+      "aliases": [
+        "apex legends",
+        "apex英雄"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "cs2",
+      "name": "CS2",
+      "yaw": 0.022,
+      "status": "cross_checked",
+      "aliases": [
+        "csgo",
+        "cs:go",
+        "反恐精英"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "valorant",
+      "name": "VALORANT",
+      "yaw": 0.06996,
+      "status": "approximate",
+      "aliases": [
+        "无畏契约",
+        "瓦罗兰特"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "overwatch2",
+      "name": "Overwatch 2",
+      "yaw": 0.0066,
+      "status": "cross_checked",
+      "aliases": [
+        "ow2",
+        "守望先锋",
+        "守望先锋2"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "cod-bo6",
+      "name": "Call of Duty: Black Ops 6",
+      "yaw": 0.0066,
+      "status": "cross_checked",
+      "aliases": [
+        "bo6",
+        "黑色行动6"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "cod-mw2019",
+      "name": "Call of Duty: Modern Warfare (2019)",
+      "yaw": 0.0066,
+      "status": "cross_checked",
+      "aliases": [
+        "mw2019"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "warzone",
+      "name": "Call of Duty: Warzone",
+      "yaw": 0.0066,
+      "status": "cross_checked",
+      "aliases": [
+        "战区"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "destiny2",
+      "name": "Destiny 2",
+      "yaw": 0.0066,
+      "status": "cross_checked",
+      "aliases": [
+        "命运2"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "deadlock",
+      "name": "Deadlock",
+      "yaw": 0.044,
+      "status": "cross_checked",
+      "aliases": [
+        "死锁"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "fortnite",
+      "name": "Fortnite",
+      "yaw": 0.005555,
+      "status": "cross_checked",
+      "aliases": [
+        "堡垒之夜"
+      ],
+      "unit": "percentage points (5 means 5%)",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "delta-force",
+      "name": "Delta Force PC",
+      "yaw": 0.03,
+      "status": "conflicting",
+      "aliases": [
+        "三角洲",
+        "三角洲行动",
+        "delta force",
+        "df"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    },
+    {
+      "id": "r6",
+      "name": "Rainbow Six Siege",
+      "yaw": 0.005729577951308232,
+      "status": "conditional",
+      "aliases": [
+        "彩虹六号",
+        "r6s"
+      ],
+      "unit": "in-game sensitivity",
+      "sources": [
+        "https://kovaaks.com/kovaaks/sens-converter",
+        "https://aiming.pro/mouse-sensitivity-calculator"
+      ]
+    }
+  ]
+}
